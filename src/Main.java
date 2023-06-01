@@ -52,12 +52,9 @@ public class Main {
         System.out.println(fullName);
         fullName = fullName.replace("ё", "е");
         System.out.println(fullName);
-
-
     }
 
-//    public static void task1() {
-
+//    public static void task2() {
 //    }
 
 
